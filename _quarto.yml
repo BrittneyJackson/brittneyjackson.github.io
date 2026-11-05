@@ -2,16 +2,12 @@
 
 # website settings
 website:
-  title: "Gandalf"                                # Your name
-  description: "Gandalf is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
-  image: img/my_image.jpg
-  
-  favicon: img/favicon.png
-  
+  title: "Brittney Jackson"                                
+  image: img/websitepic_main.png
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /img/logo.png
+    
     
     # your sub-pages
     left:
@@ -22,17 +18,13 @@ website:
       - text: "CV"
         href: cv/index.qmd
     
-    # your social media handles
+    
     right:
       - icon: folder-symlink
         href: https://www.marvinschmitt.com/blog/website-tutorial-quarto/
-      - icon: twitter
-        href: https://twitter.com/MarvinSchmittML
-      - icon: linkedin
-        href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
       - icon: envelope
         aria-label: email
-        href: "mailto:mail.marvinschmitt@gmail.com"  
+        href: "mailto:bnjprov356@gmail.com"  
   
   
 
