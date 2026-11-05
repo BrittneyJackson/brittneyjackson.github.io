@@ -20,8 +20,6 @@ website:
     
     
     right:
-      - icon: folder-symlink
-        href: https://www.marvinschmitt.com/blog/website-tutorial-quarto/
       - icon: envelope
         aria-label: email
         href: "mailto:bnjprov356@gmail.com"  
