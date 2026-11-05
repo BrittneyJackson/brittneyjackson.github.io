@@ -2,11 +2,24 @@
 title: Projects
 ---
 
-## The Invisible Opponent article series
+## The Languages of Middle-earth
 
-<a href="https://athletesinaction.org/articles/the-invisible-opponent-breaking-the-silence-on-mental-health/" target="_blank">Click Here to Read</a><br> 
+<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
 
-In May of 2018, I had the unique privilege of contributing three articles to a series I titled, "The Invisible Opponent". These articles were edited and published by a college campus ministry organization called Athletes in Action (AIA), whose primary work is to share the hope of the gospel through sports, and teaching others to do the same. I worked as an intern with AIA between 2016-2018, and was inspired to write these articles as I was processing the mental health challenges I was having at the time. I also wrote my contributions with student athletes in mind who had also struggled that year, and was very happy with the response that was received from readers. Much of what was written resonated with many people, and started important conversations that needed to be had about the mental health of student athletes.
+<a href="https://arxiv.org/abs/2210.07278" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/MetaUncertaintyPaper" target="_blank">Code</a><br>
+
+Over the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion.
+
+----
+
+## The History of the War of the Ring
+
+<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
+
+<a href="https://arxiv.org/abs/2112.08866" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br>
+
+I am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth's history and provide valuable insights into the motivations and actions of the various players involved.
+
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
