@@ -1,0 +1,15 @@
+---
+title: Projects
+---
+
+## The Invisible Opponent article series
+
+<a href="https://athletesinaction.org/articles/the-invisible-opponent-breaking-the-silence-on-mental-health/" target="_blank">Click Here to Read</a><br> 
+
+In May of 2018, I had the unique privilege of contributing three articles to a series I titled, "The Invisible Opponent". These articles were edited and published by a college campus ministry organization called Athletes in Action (AIA), whose primary work is to share the hope of the gospel through sports, and teaching others to do the same. I worked as an intern with AIA between 2016-2018, and was inspired to write these articles as I was processing the mental health challenges I was having at the time. I also wrote my contributions with student athletes in mind who had also struggled that year, and was very happy with the response that was received from readers. Much of what was written resonated with many people, and started important conversations that needed to be had about the mental health of student athletes.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```

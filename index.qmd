@@ -1,0 +1,24 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/websitepic_main.png"
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:bnjprov356@gmail.com"  
+---
+
+::: {#about-block}
+:::
+
+# Hello! Welcome to my website!
+
+My name is Brittney Jackson, and I am a first year graduate student at Case Western University. I am currently studying to earn my Master's degree in Clinical Research, and very much look forward to the opportunity to contribute to psychiatric research. My area of interest is improving the current treatment and prognosis for people living with Schizophrenia and Other Psychotic Disorders. I would also like to investigate ways to improve inpatient psychiatric care and make treatment more accessible to those who cannot afford expensive experimental treatments or residential care. My academic and professional path has taken many detours. Nonetheless,for many years I have had a passion for helping people struggling with mental illness. This passion was sparked by my own personal experiences and those of others I have met along my journey to where I am now as a graduate student. I graduated college in 2014 from Grand Valley State University, where I studied Allied Health Sciences and competed as a Division II student athlete in volleyball and track & field (I was a sprinter). 
+
+When I am not in class, I enjoy going on walks (especially in the fall), watching a captivating show, cuddling with my cat Milo, baking, pretty much anything related to Freddie Mercury and Queen, traveling and exercising. I also like playing recreational sports, but have been quite limited in my participation due to a severe knee injury I sustained in 2024. I still hope to be able to return to previously enjoyed psychical activities such as running and volleyball.
+
+Please feel free to [contact me](mailto:bnjprov356@gmail.com) if you have any questions or would like to discuss potential projects.
+
+
+
